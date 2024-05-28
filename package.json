@@ -19,6 +19,6 @@
     "@types/inquirer": "^9.0.7"
   },
   "bin": {
-    "02_atm-automated-teller-machine": "index.js"
+    "atm-machine": "index.js"
   }
 }
