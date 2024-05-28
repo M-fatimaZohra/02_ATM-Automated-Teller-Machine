@@ -2,7 +2,7 @@
 import inquirer from "inquirer";
 
 let myBalance = 10000000;
-
+// myPin = 3045 is pin to open ATM Machine
 let myPin: number = 3045;
 
 const result = await inquirer.prompt
