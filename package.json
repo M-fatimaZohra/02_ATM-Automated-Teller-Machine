@@ -1,0 +1,21 @@
+{
+  "name": "@fatima_zohra10122007/02_atm-automated-teller-machine",
+  "version": "1.0.0",
+  "description": "Here I build a ATM(Automated Teller Machine) by using typescript, node.js, inquirer",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fatima zohra",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
