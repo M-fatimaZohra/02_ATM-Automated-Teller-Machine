@@ -1,6 +1,6 @@
 {
   "name": "@fatima_zohra10122007/02_atm-automated-teller-machine",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Here I build a ATM(Automated Teller Machine) by using typescript, node.js, inquirer",
   "main": "index.js",
   "type": "module",
@@ -16,7 +16,8 @@
     "inquirer": "^9.2.22"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.7"
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "20.12.12"
   },
   "bin": {
     "atm_machine": "index.js"
