@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let myBalance = 10000000;
 let myPin = 3045;
