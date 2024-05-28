@@ -17,5 +17,10 @@
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
+  },
+
+  "bin":{
+    "@fatima_zohra10122007/02_atm-automated-teller-machine":"index.js"
   }
+
 }
